@@ -1,0 +1,124 @@
+h1{
+	text-align: center;
+	font-size: 50px;
+	color: gray;
+}
+
+.flaticon{
+	margin-left: 90px;
+	margin-right: 40px;
+	float: left;
+	border-spacing: 30px;
+	padding-top: 10px;
+}
+
+p:hover{
+	color: orange;
+	font-size: 25px;
+}
+
+#underline{
+	width: 50%;
+	color: gray;
+}
+hr{
+	width: 100%;
+	color: gray;
+}
+.login_form{
+	text-align: center;
+	color: brown;
+	background-color: peachpuff;
+	background-position: center;
+	background-size: 200px 350px;
+	padding-top: 18px;
+	padding-bottom: 30px;
+}
+body{
+	text-align: center;
+}
+
+p{
+	font-size: 1.25rem;
+	color: gray;
+	text-align: center;
+	display: inline-block;
+	margin-left: 70px;
+	margin-right: 70px;
+
+}
+
+#img4{
+	float: right;
+	margin-right: 130px;
+	padding-top: 5px;
+}
+
+.main-image{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+h2{
+	text-align: center;
+	color: gray;
+	font-size: 30px;
+}
+sizes="500*750px"
+
+.blog1{
+  text-align: justify right;
+	color: gray;
+}
+
+.sticky {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  background-color: white;
+}
+
+.leftimgs{
+	float: left;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.blog11{
+	padding-right: 50px;
+	padding-left: 50px;
+	text-align: justify;
+}
+
+.div1{
+  float: left;
+  padding: 30px; 
+}
+
+.div3{
+	float: right;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+a:hover{
+	color: hotpink;
+}
+
+.link{
+	text-align: left;
+	padding-top: 30px;
+	padding-left: 30px;
+}
+
+.rightimgs{
+	float: right;
+	padding-right: 30px;
+	padding-bottom: 40px;
+}
+
+input:hover{
+	background-color: lightpink;
+}
